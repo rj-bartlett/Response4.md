@@ -1,7 +1,7 @@
 ### Informal Response 4
 
 Filter 1: [[-1, 0, 1], [-2, 0, 2], [-1, 0, 1]]
-[Image 1]()
+[Image 1](https://github.com/rj-bartlett/Response4.md/issues/3#issue-816827176)
 Explanation: This filter makes the vertical lines in the original image more distinct. 
 
 Filter 2: [[-1, -2, -1], [0, 0, 0], [1, 2, 1]]
