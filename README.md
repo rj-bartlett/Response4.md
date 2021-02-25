@@ -1,15 +1,15 @@
 ### Informal Response 4
 
 Filter 1: [[-1, 0, 1], [-2, 0, 2], [-1, 0, 1]]
-[Image 1](https://github.com/rj-bartlett/Response4.md/issues/3#issue-816827176)
+[Image 1]()
 Explanation: This filter makes the vertical lines in the original image more distinct. 
 
 Filter 2: [[-1, -2, -1], [0, 0, 0], [1, 2, 1]]
-[Image 2]()
+[Image 2](https://github.com/rj-bartlett/Response4.md/issues/3#issue-816827176)
 Explanation: This filter makes the horizontal lines in the original image more distinct.
 
 Filter 3: [[0, 1, 0], [1, -4, 1], [0, 1, 0]]
-[Image 3]()
+[Image 3](https://github.com/rj-bartlett/Response4.md/issues/1#issue-816824854)
 Explanation: This filter makes the diagonal lines in the original image more distinct. 
 
 ##### What are you functionally accomplishing as you apply the filter to your original array?
