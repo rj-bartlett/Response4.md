@@ -2,15 +2,15 @@
 
 Filter 1: [[-1, 0, 1], [-2, 0, 2], [-1, 0, 1]]
 [Image 1]()
-Explanation: 
+Explanation: This filter makes the vertical lines in the original image more distinct. 
 
 Filter 2: [[-1, -2, -1], [0, 0, 0], [1, 2, 1]]
 [Image 2]()
-Explanation:
+Explanation: This filter makes the horizontal lines in the original image more distinct.
 
 Filter 3: [[0, 1, 0], [1, -4, 1], [0, 1, 0]]
 [Image 3]()
-Explanation: 
+Explanation: This filter makes the diagonal lines in the original image more distinct. 
 
 ##### What are you functionally accomplishing as you apply the filter to your original array?
 
